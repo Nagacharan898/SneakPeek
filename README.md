@@ -33,7 +33,7 @@ The system uses a set of coordinated components to identify users uniquely:
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/SneakPeek.git
+git clone https://github.com/Nagacharan898/SneakPeek.git
 cd SneakPeek
 npm install
 node --experimental-json-modules main.js
